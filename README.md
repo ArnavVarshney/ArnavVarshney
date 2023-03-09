@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ArnavVarshney
+- 👋 Hi, I’m Arnav :)
 - 👀 I’m interested in competitive programming, AI, and robotics
-- 🌱 I’m currently learning ML/AI
+- 🌱 I’m currently learning AI/ML
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/arnav-varshney/">LinkedIn</a> or <a href="https://www.instagram.com/arnav.varshneyy/">Instagram</a>
 
 <!---
